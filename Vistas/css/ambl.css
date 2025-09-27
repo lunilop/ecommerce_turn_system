@@ -1,0 +1,70 @@
+﻿body {
+}
+
+.header1 {
+    float: left;
+    padding: 15px;
+    width: 100%;
+    height: 30px;
+}
+
+.header2 {
+    float: left;
+    padding: 15px;
+    background-color: steelblue;
+    width: 100%;
+    height: 20px;
+}
+
+.left-panel {
+    float: left;
+    left: 0;
+    top: 0;
+    width: 260px;
+}
+
+.nombreUsu {
+    justify-content: flex-end;
+}
+
+.submenu1 {
+    padding: 15px;
+    background-color: powderblue;
+}
+
+.submenu2 {
+    padding-top: 50px;
+    padding: 15px;
+    background-color: skyblue;
+}
+
+.submenu3 {
+    padding-top: 50px;
+    padding: 15px;
+    background-color: cornflowerblue;
+}
+
+.txt {
+    width: 100px;
+}
+
+.right-panel {
+    margin-left: 290px;
+    padding: 10px;
+}
+
+.auto-style1 {
+    margin-left: 43px;
+}
+
+
+.flex-container {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+
+.flex-item {
+    margin: 10px;
+    flex: 1;
+}
